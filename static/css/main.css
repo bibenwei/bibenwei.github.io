@@ -1,0 +1,44 @@
+.container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    font-family: BlinkMacSystemFont,Microsoft Yahei UI Light,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+}
+
+.content {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+
+.base,.name {
+    color: #666
+}
+
+.stack {
+    color: #999;
+    font-size: 15px;
+    margin-top: 30px;
+    margin-bottom: 60px
+}
+
+.link {
+    color: #666;
+    margin: 15px;
+    font-size: 15px;
+    text-decoration: none
+}
+
+.footer {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    bottom: 50px;
+}
+
+.copyright {
+    color: #666;
+    font-size: 12px;
+    text-decoration: none
+}
